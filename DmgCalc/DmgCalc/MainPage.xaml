@@ -1,0 +1,7 @@
+﻿<ContentPage x:Class="DmgCalc.MainPage">
+
+    <ScrollView>
+
+    </ScrollView>
+
+</ContentPage>
